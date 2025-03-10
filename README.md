@@ -53,6 +53,4 @@ A senha gerada é embaralhada para garantir que os caracteres obrigatórios não
 ## Licença
 Este projeto está sob a licença MIT.
 
----
 
-Esse `README.md` agora reflete o funcionamento do gerador de senhas em Go, conforme o código fornecido. Se precisar de mais alguma alteração ou detalhes, é só avisar!
